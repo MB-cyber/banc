@@ -1,0 +1,2 @@
+C:\Users\lenovo\source\repos\Banque\Debug\Banque.exe
+C:\Users\lenovo\source\repos\Banque\Debug\Banque.pdb
